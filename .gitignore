@@ -1,5 +1,6 @@
 *.cjs
-*.min.js
+*.min.*
+*.map
 # Logs
 logs
 *.log

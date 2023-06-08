@@ -1,0 +1,13 @@
+:root {
+	--color: white;
+
+	&[data-theme="dark"] {
+		--color: black;
+	}
+
+	@media (prefers-color-scheme: dark) {
+		&:not([data-theme="light"]) {
+			--color: black;
+		}
+	}
+}

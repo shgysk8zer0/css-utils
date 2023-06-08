@@ -1,2 +1,2 @@
-# npm-template
-A template repo for npm packages
+# `@shgysk8zer0/css-utils`
+A collection of CSS packages
