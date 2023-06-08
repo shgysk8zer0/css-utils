@@ -12,5 +12,5 @@ importmap.yaml
 *.config.js
 *.tgz
 *.log
-*.min.js
-*.cjs
+*.min.*
+/test/
