@@ -6,6 +6,17 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [v1.1.0] - 2023-06-20
+
+### Added
+- Install `@shgysk8zer0/postcss-import`
+
+### Removed
+- Uninstall `postcss-import-url`, `postcss-import`, and `postcss-url`
+
+### Changed
+- Update list of plug-ins in `postcss.js`
+
 ## [v1.0.0] - 2023-06-08
 
 Initial Release

@@ -1,7 +1,5 @@
 /* eslint-env node */
-import pcImport from 'postcss-import';
-import pcURL from 'postcss-url';
-import pcImportURL from 'postcss-import-url';
+import postcssImport from '@shgysk8zer0/postcss-import';
 import pcEnv from 'postcss-preset-env';
 import pcDiscardComments from 'postcss-discard-comments';
 import pcCustomProperties from 'postcss-custom-properties';
@@ -10,7 +8,7 @@ import CSSNano from 'cssnano';
 import postcssNesting  from 'postcss-nesting';
 
 export const plugins = [
-	pcImport, pcURL,pcImportURL, pcEnv, pcDiscardComments, pcCustomProperties,
+	postcssImport, pcEnv, pcDiscardComments, pcCustomProperties,
 	pcMediaMinMax, CSSNano, postcssNesting,
 ];
 
