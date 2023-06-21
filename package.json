@@ -1,6 +1,6 @@
 {
   "name": "@shgysk8zer0/css-utils",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "A collection of CSS packages",
   "type": "module",
   "main": "index.cjs",
@@ -33,18 +33,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shgysk8zer0/npm-template.git"
+    "url": "git+https://github.com/shgysk8zer0/css-utils.git"
   },
   "author": "Chris Zuber <admin@kernvalley.us>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/shgysk8zer0/npm-template/issues"
+    "url": "https://github.com/shgysk8zer0/css-utils/issues"
   },
-  "homepage": "https://github.com/shgysk8zer0/npm-template#readme",
+  "homepage": "https://github.com/shgysk8zer0/css-utils#readme",
   "devDependencies": {
     "@shgysk8zer0/js-utils": "^1.0.0"
   },
   "dependencies": {
+    "@shgysk8zer0/css-utils": "^1.1.0",
     "@shgysk8zer0/postcss-import": "^1.0.1",
     "cssnano": "^6.0.1",
     "cssnano-preset-default": "^6.0.1",
