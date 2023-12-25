@@ -57,6 +57,6 @@
     "postcss-preset-env": "^9.0.0",
     "stylelint": "^16.0.0",
     "stylelint-config-recommended": "^14.0.0",
-    "stylelint-config-standard": "^35.0.0"
+    "stylelint-config-standard": "^36.0.0"
   }
 }
