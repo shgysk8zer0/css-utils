@@ -42,6 +42,7 @@
   },
   "homepage": "https://github.com/shgysk8zer0/css-utils#readme",
   "devDependencies": {
+    "@shgysk8zer0/eslint-config": "^1.0.1",
     "@shgysk8zer0/js-utils": "^1.0.0"
   },
   "dependencies": {
