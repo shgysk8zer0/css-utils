@@ -55,7 +55,7 @@
     "postcss-discard-comments": "^7.0.0",
     "postcss-media-minmax": "^5.0.0",
     "postcss-nesting": "^13.0.0",
-    "postcss-preset-env": "^10.0.0",
+    "postcss-preset-env": "^11.1.1",
     "stylelint": "^16.0.0",
     "stylelint-config-recommended": "^17.0.0",
     "stylelint-config-standard": "^39.0.0"
