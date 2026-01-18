@@ -56,8 +56,8 @@
     "postcss-media-minmax": "^5.0.0",
     "postcss-nesting": "^13.0.0",
     "postcss-preset-env": "^11.1.1",
-    "stylelint": "^16.0.0",
-    "stylelint-config-recommended": "^17.0.0",
-    "stylelint-config-standard": "^39.0.0"
+    "stylelint": "^17.0.0",
+    "stylelint-config-recommended": "^18.0.0",
+    "stylelint-config-standard": "^40.0.0"
   }
 }
