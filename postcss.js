@@ -1,4 +1,3 @@
-/* eslint-env node */
 import postcssImport from '@shgysk8zer0/postcss-import';
 import pcEnv from 'postcss-preset-env';
 import pcDiscardComments from 'postcss-discard-comments';
