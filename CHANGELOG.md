@@ -9,7 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [v1.2.1] - 2026-03-01
 
-### Updated
+### Changed
 - Update to node 24.10.0
 - Update npm publishing
 - Update dependencies and config
