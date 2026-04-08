@@ -6,8 +6,14 @@ import pcMediaMinMax from 'postcss-media-minmax';
 import CSSNano from 'cssnano';
 import postcssNesting  from 'postcss-nesting';
 
+const envConfig = {
+	features: {
+    	'cascade-layers': false
+	}
+};
+
 export const plugins = [
-	postcssImport, pcEnv, pcDiscardComments, pcCustomProperties,
+	postcssImport, pcEnv(envConfig), pcDiscardComments, pcCustomProperties,
 	pcMediaMinMax, CSSNano, postcssNesting,
 ];
 

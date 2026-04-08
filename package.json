@@ -1,6 +1,6 @@
 {
   "name": "@shgysk8zer0/css-utils",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "description": "A collection of CSS packages",
   "type": "module",
   "main": "index.cjs",

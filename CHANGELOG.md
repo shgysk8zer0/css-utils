@@ -7,6 +7,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [v1.2.2] - 2026-04-07
+
+### Fixed
+- Disable PostCSS messing with `@layer` by bloating selectors
+
 ## [v1.2.1] - 2026-03-01
 
 ### Changed
