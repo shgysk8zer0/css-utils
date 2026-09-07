@@ -48,11 +48,11 @@
   "dependencies": {
     "@shgysk8zer0/css-utils": "^1.1.0",
     "@shgysk8zer0/postcss-import": "^1.2.0",
-    "cssnano": "^8.0.2",
+    "cssnano": "^9.0.2",
     "cssnano-preset-default": "^8.0.2",
     "postcss": "^8.5.15",
     "postcss-cli": "^11.0.1",
-    "postcss-discard-comments": "^8.0.1",
+    "postcss-discard-comments": "^9.0.1",
     "postcss-media-minmax": "^5.0.0",
     "postcss-nesting": "^14.0.0",
     "postcss-preset-env": "^11.3.1",
